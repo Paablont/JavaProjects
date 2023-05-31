@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>console</headerType>
+  <jar>C:\Users\pablo\Desktop\JaponesPVR\dist\JaponesPVR.jar</jar>
+  <outfile>C:\Users\pablo\Desktop\JaponesPVR\distribution\files\GestorJapones.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\pablo\Desktop\JaponesPVR\distribution\icono.ico</icon>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.1.1.1</fileVersion>
+    <txtFileVersion>1.0</txtFileVersion>
+    <fileDescription>Primera version de la app de gestion de criaturas japonesas</fileDescription>
+    <copyright>Pablo (VR)</copyright>
+    <productVersion>1.1.1.1</productVersion>
+    <txtProductVersion>1.0</txtProductVersion>
+    <productName>Gestor de Criaturas Japonesas</productName>
+    <companyName>Pablitos Company</companyName>
+    <internalName>GestorJapon</internalName>
+    <originalFilename>GestorJapones.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>CASTILIAN_SPANISH</language>
+  </versionInfo>
+</launch4jConfig>
